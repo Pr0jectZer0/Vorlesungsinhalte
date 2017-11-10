@@ -1,4 +1,6 @@
 # Patrick Reinke
+## 9. November, 2017
+* Gruppenmeeting: Besprechung der Mockups (120 Minuten)
 ## 4. November, 2017
 * Mockup für die Spiele-Bibliothek (60 Minuten)
 ## 31. Oktober, 2017
