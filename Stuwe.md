@@ -3,3 +3,5 @@
 * Definition der Spielebibliothek (30 Minuten)
 ## 29.10.2017
 * Agile Vorgehensmodelle - 2.VL (1 Stunde)
+## 09.11.2017
+* Gruppenmeeting (2 Stunden)
