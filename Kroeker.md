@@ -1,7 +1,6 @@
 # Stefan Kroeker
 
 ## 01.11.2017
-git stau
 Zusammenfassung der Vorlesung 2 (2h)
 
 ## 26.10.2017
