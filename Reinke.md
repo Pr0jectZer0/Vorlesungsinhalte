@@ -1,4 +1,11 @@
 # Patrick Reinke
+## 12. November, 2017
+* Angular 4 - Präsentation (400 Minuten)
+## 10. November, 2017
+* Angular 4 - Präsentation (60 Minuten)
+* Einarbeitung in reveal.js (60 Minuten)
+## 9. November, 2017
+* Gruppenmeeting: Besprechung der Mockups (120 Minuten)
 ## 4. November, 2017
 * Mockup für die Spiele-Bibliothek (60 Minuten)
 ## 31. Oktober, 2017
