@@ -1,4 +1,6 @@
 # Patrick Reinke
+## 13. November, 2017
+* Unklarheiten aus dem Pflichtenheft entfernt (5 Minuten)
 ## 12. November, 2017
 * Angular 4 - Präsentation (400 Minuten)
 ## 10. November, 2017
