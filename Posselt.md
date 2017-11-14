@@ -38,3 +38,8 @@
 - ProjectZero Repo auf GH-Pages umgestellt (1h)
 - Guides zum Umgang mit Git/Github verlinkt (10 min)
 - Pflichtenheft: Bildgrößen vereinheitlicht (30 min)
+
+## 14.11.2017
+
+- Github-Repo Verwaltung (30 min)
+- Pflichtenheft: Bilderverzeichnis angelegt (1,5h)
