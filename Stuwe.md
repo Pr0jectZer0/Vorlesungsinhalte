@@ -6,4 +6,4 @@
 ## 09.11.2017
 * Gruppenmeeting (2 Stunden)
 ## 14.11.2017
-* OOA / OOD - 4.VL (1 Stunde)
+* OOA / OOD - 5.VL (1 Stunde)
