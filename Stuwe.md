@@ -5,3 +5,5 @@
 * Agile Vorgehensmodelle - 2.VL (1 Stunde)
 ## 09.11.2017
 * Gruppenmeeting (2 Stunden)
+## 14.11.2017
+* OOA / OOD - 4.VL (1 Stunde)
