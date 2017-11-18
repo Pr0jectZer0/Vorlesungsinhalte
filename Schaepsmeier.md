@@ -25,11 +25,7 @@
 * Erstellung der User-Sories zur Bewertungsfunktion.
 
 ## 18.11.2017
-## 15:00 - 15:10
+## 14:50 - 15:00
 ## 10 min
 
 * Überarbeitung der User-Sories zur Bewertungsfunktion.
-
-
-
---- Entwurfsüberarbeitung des relativen Datenbankmodells mithilfe eines ERM (Enitiy-Relationship-Model) ---
