@@ -24,3 +24,7 @@ Erstellen der User-stories für den Terminplaner (1h)
 Gruppen Meeting zur Besprechung der Vorlesungen und verbesserungen der User-Stories(1,5h)
 
 Überarbeitung der User-Story für den Terminplaner (0,5h)
+
+## 20.11.2017
+
+Software Engineering Vorlesung zusammen gefasst. (2h)
