@@ -1,4 +1,8 @@
 # Patrick Reinke
+## 21. November, 2017
+* Szenario - 6. Vorlesung (30 Minuten)
+* Textuelle Use Case Definition - 6. Vorlesung (45 Minuten)
+* Navigationleiste-GUI erstellt (30 Minuten)
 ## 13. November, 2017
 * Unklarheiten aus dem Pflichtenheft entfernt (5 Minuten)
 ## 12. November, 2017
