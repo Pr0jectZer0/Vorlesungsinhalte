@@ -29,3 +29,9 @@
 ## 10 min
 
 * Überarbeitung der User-Sories zur Bewertungsfunktion.
+
+## 20.11.2017
+## 10:00 - 10:20
+## 20 min
+
+* Erstellung des Use-Case-Diagramms zur Bewertungsfunktion.
