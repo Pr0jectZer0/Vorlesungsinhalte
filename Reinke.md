@@ -1,8 +1,16 @@
 # Patrick Reinke
+## 22. November, 2017
+* Bewertungsfunktion-GUI erstellt (90 Minuten)
+* Terminplaner-GUI erstellt (90 Minuten)
+* Registrierung-GUI erstellt (15 Minuten)
+* Anmeldung-GUI erstellt (15 Minuten)
 ## 21. November, 2017
 * Szenario - 6. Vorlesung (30 Minuten)
 * Textuelle Use Case Definition - 6. Vorlesung (45 Minuten)
 * Navigationleiste-GUI erstellt (30 Minuten)
+* Webanwendungs-GUI-Repo erstellt und eingerichtet (20 Minuten)
+## 16. November, 2017
+* Gruppenmeeting: Besprechung Praktikumsfolien und User Stories (90 Minuten)
 ## 13. November, 2017
 * Unklarheiten aus dem Pflichtenheft entfernt (5 Minuten)
 ## 12. November, 2017
