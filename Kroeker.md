@@ -33,3 +33,5 @@ Software Engineering Vorlesung zusammen gefasst. (2h)
 ## 22.11.2017
 
 Use Case für Terminplaner erstellt und in Pflichtenheft eingefügt (1h)
+
+Web GUI für Freundesliste angefangen und ein bisschen in HTML und Bootstrap eingearbeitet (1h)
