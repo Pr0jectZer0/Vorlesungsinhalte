@@ -48,6 +48,10 @@
 * Registrierung-GUI erstellt (15 Minuten)
 * Anmeldung-GUI erstellt (15 Minuten)
 
+## 23. November, 2017
+* Gruppenmeeting (Vorzeitig abgebrochen) (45 Minuten)
+* Kleinere Änderungen am GUI (20 Minuten)
+
 
 
 
