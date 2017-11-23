@@ -24,7 +24,7 @@ Erstellen der User-stories für den Terminplaner (1h)
 
 Gruppen Meeting zur Besprechung der Vorlesungen und verbesserungen der User-Stories (1,5h)
 
-Überarbeitung der User-Story für den Terminplaner (0,5h)
+Überarbeitung der User-Story für den Terminplaner (30min)
 
 ## 20.11.2017
 
@@ -35,3 +35,9 @@ Software Engineering Vorlesung zusammen gefasst. (2h)
 Use Case für Terminplaner erstellt und in Pflichtenheft eingefügt (1h)
 
 Web GUI für Freundesliste angefangen und ein bisschen in HTML und Bootstrap eingearbeitet (1h)
+
+## 23.11.2017
+
+Gruppenmeeting. Besprechung der Use Cases und der Vorlesungen (1h) 
+
+Use Case für Terminplaner überarbeitet (30min)
