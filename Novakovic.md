@@ -12,3 +12,25 @@
 * Meeting - Erste Konzepte der Datenbank festgelegt und ER-Diagramm (1h)
 * Mergekonflikt gelöst/Fehlende Folieninhalte ergänzt (2h 30m)
 
+## 09.11.2017
+* Annahme der Pull-Requests (10m)
+
+## 12.11.2017
+* Repo aufgeräumt (5m)
+
+## 15.11.2017
+* User-Stories für Gruppen (1h)
+
+## 16.11.2017
+* Verbesserungen der User-Stories (10m)
+
+## 21.11.2017
+* Annahme der Pull-Requests (10m)
+
+## 22.10.2017
+* Annahme der Pull-Requests / Repo-organisation (20m)
+
+## 23.10.2017
+* Annahme der Pull-Requests (10m)
+* Use-Cases für Gruppen erstellt (40m)
+
