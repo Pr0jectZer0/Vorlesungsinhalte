@@ -41,3 +41,5 @@ Web GUI für Freundesliste angefangen und ein bisschen in HTML und Bootstrap ein
 Gruppenmeeting. Besprechung der Use Cases und der Vorlesungen (1h) 
 
 Use Case für Terminplaner überarbeitet (30min)
+
+Freundesliste bearbeitet (2h)
