@@ -4,7 +4,7 @@
 
 Definition des Frontends (30 Minuten)
 
-Gruppen Meeting (1h)
+Gruppenmeeting (1h)
 
 ## 02.11.2017
 
@@ -16,7 +16,7 @@ Gruppenmeeting (2h)
 
 ## 14.11.2017
 
-Erstellung und Einpflegung der User-Stories für das Pflichtenheft (30 Minuten)
+Erstellung und Einpflegung der User-Storys für das Pflichtenheft (30 Minuten)
 
 ## 16.11.2017
 
@@ -27,3 +27,9 @@ Gruppenmeeting (1 Stunde 30 Minuten)
 Überarbeitung User-Stories für Chaträume (20 Minuten)
 
 Erstellung des Use-Case-Diagrammes und Einpflegung ins Pflichtenheft (30 Minuten)
+
+## 23.11.2017
+
+Gruppenmeeting (1h)
+
+Überarbeitung des Use-Case-Diagrammes (30 Minuten)
