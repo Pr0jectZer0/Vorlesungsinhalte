@@ -52,6 +52,9 @@
 * Gruppenmeeting (Vorzeitig abgebrochen) (45 Minuten)
 * Kleinere Änderungen am GUI (20 Minuten)
 
+## 24. November, 2017
+* Web-Frontend Registrierung erstellt (GUI + Validation) (400 Minuten)
+
 
 
 
