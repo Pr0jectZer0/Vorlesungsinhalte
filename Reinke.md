@@ -55,7 +55,9 @@
 ## 24. November, 2017
 * Web-Frontend Registrierung erstellt (GUI + Validation) (400 Minuten)
 
-
+## 25. November
+* Web-Frontend Registrierung Http via Firebase (60 Minuten)
+* Web-Frontend Error-Landing-Page und Logo eingebunden (60 Minuten)
 
 
 
