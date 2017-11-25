@@ -53,7 +53,7 @@
 * Kleinere Änderungen am GUI (20 Minuten)
 
 ## 24. November, 2017
-* Web-Frontend Registrierung erstellt (GUI + Validation) (400 Minuten)
+* Web-Frontend Registrierung erstellt (GUI + Validation) (240 Minuten)
 
 ## 25. November
 * Web-Frontend Registrierung Http via Firebase (60 Minuten)
