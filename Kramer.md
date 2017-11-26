@@ -14,3 +14,7 @@
 
 ## 16.11.2017
 - Teilnahme am Gruppenmeeting: User-Stories besprochen und Pflichtenheft aktualisiert (1,5h)
+
+## 23.11.2017
+- Teilnahme am Gruppenmeeting: Usecases besprochen und Pflichtenheft aktualisiert (1h)
+- Ersten Desktop-GUI-Entwurf erstellt (4h)
