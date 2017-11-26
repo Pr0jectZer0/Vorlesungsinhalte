@@ -43,3 +43,8 @@
 
 - Github-Repo Verwaltung (30 min)
 - Pflichtenheft: Bilderverzeichnis angelegt (1,5h)
+
+## 16.11.2017
+
+- Gruppenmeeting: Besprechung Praktikumsfolien und User Stories (1,5h)
+- Github-Repo Verwaltung (45 min)

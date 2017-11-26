@@ -7,3 +7,12 @@
 * Gruppenmeeting (2 Stunden)
 ## 14.11.2017
 * OOA / OOD - 5.VL (1 Stunde)
+## 16.11.2017
+* Gruppenmeeting (1 Stunde 30 Minuten)
+## 20.11.2017
+* Anforderungsanalyse - 6.VL (2 Stunden)
+## 22.11.2017
+* Web - GUI Chats (4 Stunden)
+## 23.11.2017
+* Web - GUI keinere Fixes, Änderungen (1 Stunde)
+* Gruppenmeeting (1 Stunde)
