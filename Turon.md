@@ -36,4 +36,15 @@
 
 * Erstellung der Web Gui für Notizen (1 h)
 * Erstellung der Web Gui für Spielebibliothek (1 h)
-* ​
+
+## 23.11
+
+* Gruppen Meeting für die Besprechung der User Stories und ersten Gui Beispielen (1,5 h)
+
+## 24.11
+
+* Skizzen für das Projekt Logo erstellt (2 h)
+
+## 25.11
+
+* Finalen Entwurf in Illustrator übertragen (2,5 h)
