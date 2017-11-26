@@ -43,8 +43,8 @@
 * Webanwendungs-GUI-Repo erstellt und eingerichtet (20 Minuten)
 
 ## 22. November, 2017
-* Bewertungsfunktion-GUI erstellt (90 Minuten)
-* Terminplaner-GUI erstellt (90 Minuten)
+* Bewertungsfunktion-GUI erstellt (60 Minuten)
+* Terminplaner-GUI erstellt (60 Minuten)
 * Registrierung-GUI erstellt (15 Minuten)
 * Anmeldung-GUI erstellt (15 Minuten)
 
@@ -55,9 +55,10 @@
 ## 24. November, 2017
 * Web-Frontend Registrierung erstellt (GUI + Validation) (240 Minuten)
 
-## 25. November
+## 25. November, 2017
 * Web-Frontend Registrierung Http via Firebase (60 Minuten)
 * Web-Frontend Error-Landing-Page und Logo eingebunden (60 Minuten)
 
-
-
+## 26. November, 2017
+* Web-Frontend Anmeldung erstellt (GUI + Http) (60 Minuten)
+* Web-Frontend Abmeldung erstellt (20 Minuten)
