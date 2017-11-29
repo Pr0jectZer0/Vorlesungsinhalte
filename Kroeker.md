@@ -43,3 +43,7 @@ Gruppenmeeting. Besprechung der Use Cases und der Vorlesungen (1h)
 Use Case für Terminplaner überarbeitet (30min)
 
 Freundesliste bearbeitet (2h)
+
+## 29.11.2017
+
+Aktivitätsdiagramm für Terminplaner (Termin erstellen) erstellt. (2h)
