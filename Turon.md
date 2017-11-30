@@ -1,7 +1,7 @@
 #Pascal Turon 
 
 ##26.10
- 
+
 * Gruppen Meeting zum Besprechen des Pflichtenheftes (1h)
 * Eintrag für Notizen im Pflichtenheft (0,5h)
 
@@ -27,3 +27,13 @@
 * Erstellung der Mockups für Web und Mobil für Gruppen (2h)
 * Beschreibung der Gruppenrollen für das Pflichtenheft (0,5h)
 * Fehlerbehebung im Pflichtenheft 
+
+## 21.11
+
+* Zusammenfassung der Folien (Vl 06) (2h)
+
+## 22.11
+
+* Erstellung der Web Gui für Notizen (1 h)
+* Erstellung der Web Gui für Spielebibliothek (1 h)
+* ​

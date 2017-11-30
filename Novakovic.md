@@ -27,10 +27,13 @@
 ## 21.11.2017
 * Annahme der Pull-Requests (10m)
 
-## 22.10.2017
+## 22.11.2017
 * Annahme der Pull-Requests / Repo-organisation (20m)
 
-## 23.10.2017
+## 23.11.2017
 * Annahme der Pull-Requests (10m)
-* Use-Cases für Gruppen erstellt (40m)
+* Use-Cases für Gruppen erstellt (1h)
+
+## 30.11.2017
+* Erstellung des Aktivitätdiagramms für die Vorlesungsaufgabe (2h)
 
