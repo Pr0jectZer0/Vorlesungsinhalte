@@ -47,3 +47,7 @@ Freundesliste bearbeitet (2h)
 ## 29.11.2017
 
 Aktivitätsdiagramm für Terminplaner (Termin erstellen) erstellt. (2h)
+
+## 30.11.2017
+
+Gruppen Meeting zur Besprechung der Vorlesungsfolien und AKtivitätsdiagramme (2h)
