@@ -20,3 +20,6 @@
 
 - Gruppenmeeting: Besprechung Praktikumsfolien und User Stories (1,5h)
 - Korrektur von Folienformatierung (30min)
+
+## 30.11.2017
+- Desktop-Gui, Registrierung/Login, Einarbeitung in Webrequest und Scene-Builder(3h)
