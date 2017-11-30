@@ -69,4 +69,4 @@ Präsentationen sind noch nicht hochgeladen
 
 ### 30.11
 **Anwesenheit**
-Phillip, Marc, Steffen, Max, Julien, Luis, Jonas, Stefan, Pascal, Patrick, Marti, Dejan
+Phillip, Marc, Steffen, Max, Julien, Luis, Jonas, Stefan, Pascal, Patrick, Marti, Dejan, Marvin, Chris
