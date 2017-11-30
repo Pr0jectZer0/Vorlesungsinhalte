@@ -65,4 +65,4 @@
 
 ## 30. November, 2017
 * Gruppenmeeting: Besprechung der Vorlesungsfolien und Aktivitätsdiagramme (120 Minuten)
-* Web-Frontend Auth via Backend hinzugefügt
+* Web-Frontend Auth via Backend hinzugefügt (120 Minuten)
