@@ -43,3 +43,5 @@ Aufarbeitung VL07 (4 Stunden)
 Gruppenmeeting (2h)
 
 Überarbeitung VL07 (30 Minuten)
+
+Desktop-GUI Registrierung und Login, Einarbeitung in Webrequests und SceneBuilder (3h)
