@@ -35,3 +35,15 @@
 ## 20 min
 
 * Erstellung des Use-Case-Diagramms zur Bewertungsfunktion.
+
+## 30.11.2017
+## 10:00 - 11:00
+## 60 min
+
+* Aufbereitung der Vorlesungsfolie 7 S. 51 - 65
+
+## 30.11.2017
+## 19:50 - 20:10
+## 20 min
+
+* Überarbeitung des Use-Case-Diagramms zur Bewertungsfunktion.
