@@ -62,3 +62,7 @@
 ## 26. November, 2017
 * Web-Frontend Anmeldung erstellt (GUI + Http) (60 Minuten)
 * Web-Frontend Abmeldung erstellt (20 Minuten)
+
+## 30. November, 2017
+* Gruppenmeeting: Besprechung der Vorlesungsfolien und Aktivitätsdiagramme (120 Minuten)
+* Web-Frontend Auth via Backend hinzugefügt
