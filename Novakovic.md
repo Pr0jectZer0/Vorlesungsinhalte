@@ -34,6 +34,8 @@
 * Annahme der Pull-Requests (10m)
 * Use-Cases für Gruppen erstellt (1h)
 
-## 30.11.2017
+## 29.11.2017
 * Erstellung des Aktivitätdiagramms für die Vorlesungsaufgabe (2h)
 
+## 30.11.2017
+* Erstellung der Aktivitätsdiagramme für Gruppen (1h)
