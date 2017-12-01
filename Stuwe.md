@@ -16,3 +16,6 @@
 ## 23.11.2017
 * Web - GUI keinere Fixes, Änderungen (1 Stunde)
 * Gruppenmeeting (1 Stunde)
+## 30.11.2017
+* Gruppenmeeting (2 Stunden)
+* Web-Frontend einlesen in Dokumentation und Problem in Anmeldung gefixt (2 Stunden 30 Minuten)
