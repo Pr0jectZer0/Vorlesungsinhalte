@@ -58,7 +58,7 @@ Issues bei Git erstellt für Fehler und Probleme, die wir gefunden haben
 
 ### 23.11
 **Anwesenheit**  
-Dejan, Erik, Frank, Hagen, Jonas, Julian, Julien, Luis, Marc, Marcel, Marti, Marvin, Max, Nicola, Pascal, Patrick, Phillip, Stefan, Steffen
+Dejan, Erik, Frank, Jonas, Julian, Julien, Luis, Marc, Marcel, Marti, Marvin, Max, Nicola, Pascal, Patrick, Phillip, Stefan, Steffen
 
 Bilder müssen in Ordner sortiert werden  
 Die Reiter in GitHub Pages müssen angepasst werden  
@@ -66,3 +66,7 @@ Usecases besprochen
 "Kunde" muss zu "Benutzer" geändert werden  
 Präsentationen sind noch nicht hochgeladen  
 "Benutzerprofil" muss dem Pflichtenheft hinzugefügt werden  
+
+### 30.11
+**Anwesenheit**
+Phillip, Marc, Steffen, Max, Julien, Luis, Jonas, Stefan, Pascal, Patrick, Marti, Dejan, Marvin, Chris

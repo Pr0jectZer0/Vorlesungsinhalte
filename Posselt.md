@@ -48,3 +48,29 @@
 
 - Gruppenmeeting: Besprechung Praktikumsfolien und User Stories (1,5h)
 - Github-Repo Verwaltung (45 min)
+
+## 22.11.2017
+
+- Github-Repo Verwaltung (15 min)
+
+## 23.11.2017
+
+- Gruppenmeeting (1,5h)
+- Github-Repo Verwaltung (30 min)
+
+## 29.11.2017
+
+- Github-Repo Verwaltung (30 min)
+
+## 30.11.2017
+
+- Gruppenmeeting (1,5h)
+- Github-Repo Verwaltung (45 min)
+
+## 01.12.2017
+
+- Besprechung Datenbank-Gruppe: ER-Diagramm (1h)
+
+## 02.12.2017
+
+- Aufbereitung Folien VL08 (1,5h)

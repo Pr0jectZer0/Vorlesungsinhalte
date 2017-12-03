@@ -33,3 +33,15 @@ Erstellung des Use-Case-Diagrammes und Einpflegung ins Pflichtenheft (30 Minuten
 Gruppenmeeting (1h)
 
 Überarbeitung des Use-Case-Diagrammes (30 Minuten)
+
+## 27.11.2017
+
+Aufarbeitung VL07 (4 Stunden)
+
+## 30.11.2017
+
+Gruppenmeeting (2h)
+
+Überarbeitung VL07 (30 Minuten)
+
+Desktop-GUI Registrierung und Login, Einarbeitung in Webrequests und SceneBuilder (3h)
