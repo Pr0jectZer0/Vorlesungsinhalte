@@ -67,3 +67,6 @@
 * Gruppenmeeting: Besprechung der Vorlesungsfolien und Aktivitätsdiagramme (120 Minuten)
 * Web-Frontend Auth via Backend hinzugefügt (120 Minuten)
 * Web-Frontend Validation für Anmeldung und Registrierung erweitert (30 Minuten)
+
+## 3. Dezember, 2017
+* Freundesliste hinzugefügt und geholfen
