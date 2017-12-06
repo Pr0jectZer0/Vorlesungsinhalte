@@ -55,3 +55,7 @@ Gruppen Meeting zur Besprechung der Vorlesungsfolien und AKtivitätsdiagramme (1
 ## 3.12.2017
 
 Freundesliste hinzugefügt (180 Minuten)
+
+## 6.12.2017
+
+Design der Freundesliste bearbeitet (120 Minuten)
