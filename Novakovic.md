@@ -39,3 +39,6 @@
 
 ## 30.11.2017
 * Erstellung der Aktivitätsdiagramme für Gruppen (1h)
+
+## 06.12.2017
+* Vorlesungsfolien bearbeitet (1h)
