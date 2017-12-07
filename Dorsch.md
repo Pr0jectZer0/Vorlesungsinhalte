@@ -45,3 +45,11 @@ Gruppenmeeting (2h)
 Überarbeitung VL07 (30 Minuten)
 
 Desktop-GUI Registrierung und Login, Einarbeitung in Webrequests und SceneBuilder (3h)
+
+## 06.12.2017
+
+Aktivitätsdiagramm für Chaträume
+
+## 07.12.2017
+
+Gruppenmeeting (2h)

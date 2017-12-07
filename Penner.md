@@ -6,7 +6,7 @@
 
 ## 09.11.2017
 
-- Gruppenmeeting:  Vorlesungsaufbereitung besprochen, neue Beiträge zum Pflichtenheft diskutiert (1.5h)
+- Gruppenmeeting: Vorlesungsaufbereitung besprochen, neue Beiträge zum Pflichtenheft diskutiert (1.5h)
 
 ## 12.11.2017
 
@@ -27,4 +27,18 @@
 
 ## 20.11.2017
 
-- Use-Case Diagramm erstellt (1h)
+- Use-Case Diagramm für Notizen erstellt (1h)
+
+## 23.11.2017
+
+- Gruppenmeeting: Besprechung der Use Cases und der Vorlesungen (1h)
+
+## 28.11.2017
+
+- Aktivitätsdiagramm für Notizen erstellt (1h)
+
+## 30.11.2017
+
+- Desktop-Gui, Registrierung/Login, Einarbeitung in Webrequest und Scene-Builder(3h)
+
+- Gruppen Meeting: Besprechung der Vorlesungsfolien und AKtivitätsdiagramme (2h)
