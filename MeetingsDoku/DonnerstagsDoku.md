@@ -79,4 +79,5 @@ Einzelne besprechungen in den Teams
 Julian, Luis, Phillip, Dejan, Pascal, Marti, Patrick, Stefan, Steffen, Marc, Julian, Chris, Nicola, Marvin, Jonas
 
 Besprechung Aktivitätsdiagrammkorrekturen
+
 Klärung verschiedener Begriffe
