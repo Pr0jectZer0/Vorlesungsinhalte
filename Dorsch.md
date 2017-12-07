@@ -52,4 +52,6 @@ Aktivitätsdiagramm für Chaträume
 
 ## 07.12.2017
 
-Gruppenmeeting (2h)
+Gruppenmeeting (1h)
+
+Desktop-GUI Freundesliste, Bibliothek, GUI-Erweiterung (4h)
