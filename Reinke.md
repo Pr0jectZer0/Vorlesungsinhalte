@@ -76,5 +76,7 @@
 * Web-Frontend: Freundesliste designtechnisch überarbeitet (2 Stunden)
 
 ## 7. Dezember, 2017
+* Gruppenmeeting: Besprechung der Aktivitätdiagramme (1 Stunde)
+* Web-Frontend Gruppenmeeting: Besprechung des weiteren Vorgehens (30 Minuten)
 * Web-Frontend: HTTP-Requests für Freundesliste hinzugefügt (2 Stunden)
 * Web-Frontend: AuthGuard hinzugefügt (20 Minuten)
