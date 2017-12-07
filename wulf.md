@@ -24,9 +24,9 @@ Gruppenmeeting (1h)
 
 ## 29.11.2017
 
-Einrichtung der REST API
+Einrichtung der REST API (1,5h)
 
-Routen für login und register (4h)
+Routen für login und register (2,5h)
 
 
 ## 30.11.2017
