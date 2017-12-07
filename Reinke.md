@@ -53,20 +53,28 @@
 * Kleinere Änderungen am GUI (20 Minuten)
 
 ## 24. November, 2017
-* Web-Frontend Registrierung erstellt (GUI + Validation) (4 Stunde)
+* Web-Frontend: Registrierung erstellt (GUI + Validation) (4 Stunde)
 
 ## 25. November, 2017
-* Web-Frontend Registrierung Http via Firebase (1 Stunde)
-* Web-Frontend Error-Landing-Page und Logo eingebunden (1 Stunde)
+* Web-Frontend: Registrierung Http via Firebase (1 Stunde)
+* Web-Frontend: Error-Landing-Page und Logo eingebunden (1 Stunde)
 
 ## 26. November, 2017
-* Web-Frontend Anmeldung erstellt (GUI + Http) (1 Stunde)
-* Web-Frontend Abmeldung erstellt (20 Minuten)
+* Web-Frontend: Anmeldung erstellt (GUI + Http) (1 Stunde)
+* Web-Frontend: Abmeldung erstellt (20 Minuten)
 
 ## 30. November, 2017
 * Gruppenmeeting: Besprechung der Vorlesungsfolien und Aktivitätsdiagramme (2 Stunden)
-* Web-Frontend Auth via Backend hinzugefügt (2 Stunden)
-* Web-Frontend Validation für Anmeldung und Registrierung erweitert (30 Minuten)
+* Web-Frontend: Auth via Backend hinzugefügt (2 Stunden)
+* Web-Frontend: Validation für Anmeldung und Registrierung erweitert (30 Minuten)
 
 ## 3. Dezember, 2017
-* Freundesliste unterstützt (3 Stunden)
+* Web-Frontend: Freundesliste unterstützt (3 Stunden)
+* Web-Frontend: Animationen für Freundesliste hinzugefügt (1 Stunde)
+
+## 6. Dezember, 2017
+* Web-Frontend: Freundesliste designtechnisch überarbeitet (2 Stunden)
+
+## 7. Dezember, 2017
+* Web-Frontend: HTTP-Requests für Freundesliste hinzugefügt (2 Stunden)
+* Web-Frontend: AuthGuard hinzugefügt (20 Minuten)
