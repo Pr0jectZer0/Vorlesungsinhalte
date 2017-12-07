@@ -17,11 +17,6 @@ Vorbereitung Laravel / Backend / REST API Präsentation (3h)
 
 Gruppenmeeting (1 Stunde 30 Minuten)
 
-## 22.11.2017
-
-Überarbeitung User-Stories für Chaträume (20 Minuten)
-
-Erstellung des Use-Case-Diagrammes und Einpflegung ins Pflichtenheft (30 Minuten)
 
 ## 23.11.2017
 
