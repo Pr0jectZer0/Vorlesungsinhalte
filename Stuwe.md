@@ -19,3 +19,8 @@
 ## 30.11.2017
 * Gruppenmeeting (2 Stunden)
 * Web-Frontend einlesen in Dokumentation und Problem in Anmeldung gefixt (2 Stunden 30 Minuten)
+## 07.12.2017
+* Gruppenmeeting (1 Stunde)
+* Web-Gruppenmeeting (30 Minuten)
+## 08.12.2017
+* Hotfix Freundesliste
