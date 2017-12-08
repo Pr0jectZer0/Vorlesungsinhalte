@@ -23,4 +23,4 @@
 * Gruppenmeeting (1 Stunde)
 * Web-Gruppenmeeting (30 Minuten)
 ## 08.12.2017
-* Hotfix Freundesliste
+* Hotfix Freundesliste (30 Minuten)
