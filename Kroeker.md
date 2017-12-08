@@ -65,3 +65,5 @@ Design der Freundesliste bearbeitet (120 Minuten)
 An der Freundesliste gewerkelt (120 Minuten)
 
 Gruppen Meeting zur Besprechung der Aktivitätsdiagramme und fehlende Angaben im Pflichtenheft (60 Minuten)
+
+Web-Gruppenmeeting: Zur Besprechung des weiteren Vorgehens (30 Minuten)
