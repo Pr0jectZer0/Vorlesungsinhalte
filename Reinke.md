@@ -80,3 +80,6 @@
 * Web-Frontend Gruppenmeeting: Besprechung des weiteren Vorgehens (30 Minuten)
 * Web-Frontend: HTTP-Requests für Freundesliste hinzugefügt (2 Stunden)
 * Web-Frontend: AuthGuard hinzugefügt (20 Minuten)
+
+## 13. Dezember, 2017
+* Web-Frontend: Beim hinzufügen der Chaträume geholfen (2 Stunden)
