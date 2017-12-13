@@ -23,3 +23,7 @@
 
 ## 30.11.2017
 - Desktop-Gui, Registrierung/Login, Einarbeitung in Webrequest und Scene-Builder(3h)
+
+## 7.12.17
+- Gruppenmeeting(1h)
+- DesktopGui: Freundesliste, Bibliothek und Guierweiterung(4h)
