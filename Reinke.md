@@ -83,3 +83,7 @@
 
 ## 13. Dezember, 2017
 * Web-Frontend: Beim hinzufügen der Chaträume geholfen (2 Stunden)
+
+## 14. Dezember, 2017
+* Web-Frontend: Chats überarbeitet (1 Stunde)
+* Web-Frontend: Bibliothek überarbeitet (1 Stunde)
