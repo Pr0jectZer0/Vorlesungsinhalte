@@ -78,6 +78,12 @@ Einzelne besprechungen in den Teams
 **Anwesenheit** 
 Julian, Luis, Phillip, Dejan, Pascal, Marti, Patrick, Stefan, Steffen, Marc, Julian, Chris, Nicola, Marvin, Jonas
 
-Besprechung Aktivitätsdiagrammkorrekturen
-
+Besprechung Aktivitätsdiagrammkorrekturen  
 Klärung verschiedener Begriffe
+
+### 14.12
+**Anwesenheit**
+Jonas, Marvin, Nicola, Chris, Julian, Luis, Phillip, Stefan, Marti, Patrick, Steffen, Frank, Max, Julien, Dejan
+
+Diagramme und Vorlesungsfolien besprochen  
+

@@ -24,7 +24,7 @@ Gruppenmeeting (1h)
 
 ## 29.11.2017
 
-Einrichtung der REST API (1,5h)
+Einrichtung der REST API, Anlegen der Migrations anhand des ERDs (1,5h)
 
 Routen für login und register (2,5h)
 
