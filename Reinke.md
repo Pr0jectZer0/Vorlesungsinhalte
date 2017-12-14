@@ -87,3 +87,4 @@
 ## 14. Dezember, 2017
 * Web-Frontend: Chats überarbeitet (1 Stunde)
 * Web-Frontend: Bibliothek überarbeitet (1 Stunde)
+* Verschieben der Mockups (15 Minuten)
