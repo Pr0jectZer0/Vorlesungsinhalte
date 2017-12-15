@@ -73,3 +73,7 @@ Web-Gruppenmeeting: Zur Besprechung des weiteren Vorgehens (30 Minuten)
 Gruppen Meeting zur Besprechung des weiteren Vorgehens und der Vorlesungen (60 Minuten)
 
 Aktivitätsdiagramm für alle Use Cases erstellt (180 Minuten)
+
+## 15.12.2017
+
+Aktivitätsdiagramm für alle Use Cases überarbeite (90 Minuten)
