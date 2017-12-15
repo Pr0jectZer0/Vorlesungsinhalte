@@ -55,3 +55,9 @@ Aktivitätsdiagramm für Chaträume
 Gruppenmeeting (1h)
 
 Desktop-GUI Freundesliste, Bibliothek, GUI-Erweiterung (4h)
+
+##14.12.2017
+
+Gruppenmeeting (1h)
+
+Desktop-GUI Chaträume, Refactoring, Anfang neue Klassen für API-Aufrufe (2h)
