@@ -59,3 +59,17 @@ Freundesliste hinzugefügt (180 Minuten)
 ## 6.12.2017
 
 Design der Freundesliste bearbeitet (120 Minuten)
+
+## 7.12.2017
+
+An der Freundesliste gewerkelt (120 Minuten)
+
+Gruppen Meeting zur Besprechung der Aktivitätsdiagramme und fehlende Angaben im Pflichtenheft (60 Minuten)
+
+Web-Gruppenmeeting: Zur Besprechung des weiteren Vorgehens (30 Minuten)
+
+## 14.12.2017
+
+Gruppen Meeting zur Besprechung des weiteren Vorgehens und der Vorlesungen (60 Minuten)
+
+Aktivitätsdiagramm für alle Use Cases erstellt (180 Minuten)

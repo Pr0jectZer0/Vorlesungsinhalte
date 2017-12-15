@@ -37,5 +37,9 @@
 * Hotfix Freundesliste (30 Minuten)
 
 ## 13.12.2017
-* Design Chatübersicht (1,5 Stunden)
-* Design Chats (2,5 Stunden)
+* Design Chatübersicht (1 Stunden 30 Minuten)
+* Design Chats (2 Stunden 30 Minuten)
+
+## 14.12.2017
+* Gruppenmeeting (1 Stunde)
+* Web-Frontend: Chats (2 Stunden)
