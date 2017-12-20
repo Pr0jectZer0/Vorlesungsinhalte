@@ -77,3 +77,7 @@ Aktivitätsdiagramm für alle Use Cases erstellt (180 Minuten)
 ## 15.12.2017
 
 Aktivitätsdiagramm für alle Use Cases überarbeite (90 Minuten)
+
+## 20.12.2017
+
+Vorlesung zusammengefasst (90 Minuten)
