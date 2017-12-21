@@ -47,3 +47,21 @@
 ## 20 min
 
 * Überarbeitung des Use-Case-Diagramms zur Bewertungsfunktion.
+
+## 07.12.2017
+## 20:00 - 21:00
+## 60 min
+
+* Datenmodell (Physisches Modell) zur Datenbank erstellt.
+
+## 14.12.2017
+## 20:00 - 21:00
+## 60 min
+
+* Datenmodell (Physisches Modell) zur Datenbank überarbeitet und Beginn der Tabellenerstellung in MySQL.
+
+## 21.12.2017
+## 20:30 - 21:30
+## 60 min
+
+* Für Vorlesungsfolie 10 ein Metaklassendiagramm vom Sequenzdiagramm erstellt.
