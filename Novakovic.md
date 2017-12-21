@@ -6,20 +6,20 @@
 * Bearbeitung der Folien (2h)
 
 ## 26.10.2017: 
-* Meeting - Überarbeitung der Folien/Korrekturlesen (2h)
+* Meeting - Ãœberarbeitung der Folien/Korrekturlesen (2h)
 
 ## 02.11.2017: 
 * Meeting - Erste Konzepte der Datenbank festgelegt und ER-Diagramm (1h)
-* Mergekonflikt gelöst/Fehlende Folieninhalte ergänzt (2h 30m)
+* Mergekonflikt gelÃ¶st/Fehlende Folieninhalte ergÃ¤nzt (2h 30m)
 
 ## 09.11.2017
 * Annahme der Pull-Requests (10m)
 
 ## 12.11.2017
-* Repo aufgeräumt (5m)
+* Repo aufgerÃ¤umt (5m)
 
 ## 15.11.2017
-* User-Stories für Gruppen (1h)
+* User-Stories fÃ¼r Gruppen (1h)
 
 ## 16.11.2017
 * Verbesserungen der User-Stories (10m)
@@ -32,10 +32,17 @@
 
 ## 23.11.2017
 * Annahme der Pull-Requests (10m)
-* Use-Cases für Gruppen erstellt (1h)
+* Use-Cases fÃ¼r Gruppen erstellt (1h)
 
 ## 29.11.2017
-* Erstellung des Aktivitätdiagramms für die Vorlesungsaufgabe (2h)
+* Erstellung des AktivitÃ¤tdiagramms fÃ¼r die Vorlesungsaufgabe (2h)
 
 ## 30.11.2017
-* Erstellung der Aktivitätsdiagramme für Gruppen (1h)
+* Erstellung der AktivitÃ¤tsdiagramme fÃ¼r Gruppen (1h)
+
+## 06.12.2017
+* Vorlesungsfolien bearbeitet (1h)
+
+## 13.12.2017
+* Einarbeitung im Karma-Testframework (1h)
+* Erstellung .travis.yml (15m)

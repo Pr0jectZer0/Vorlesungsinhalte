@@ -70,3 +70,27 @@ Präsentationen sind noch nicht hochgeladen
 ### 30.11
 **Anwesenheit**
 Phillip, Marc, Steffen, Max, Julien, Luis, Jonas, Stefan, Pascal, Patrick, Marti, Dejan, Marvin, Chris
+
+Besprechung Aktivitätsdiagramme und Korrektur der Use-Cases  
+Einzelne besprechungen in den Teams  
+
+### 07.12
+**Anwesenheit** 
+Julian, Luis, Phillip, Dejan, Pascal, Marti, Patrick, Stefan, Steffen, Marc, Julian, Chris, Nicola, Marvin, Jonas
+
+Besprechung Aktivitätsdiagrammkorrekturen  
+Klärung verschiedener Begriffe
+
+### 14.12
+**Anwesenheit**
+Jonas, Marvin, Nicola, Chris, Julian, Luis, Phillip, Stefan, Marti, Patrick, Steffen, Frank, Max, Julien, Dejan
+
+Diagramme und Vorlesungsfolien besprochen  
+
+### 21.12
+**Anwesenheit**
+Max, Steffen, Stefan, Luis, Phillip, Pascal, Jonas, Dejan, Chris, Marvin
+
+Folien und Metaklassendiagramme besprochen  
+Neuverteilung der Folien  
+Web: Gruppen besprochen

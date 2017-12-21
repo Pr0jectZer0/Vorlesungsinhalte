@@ -45,3 +45,27 @@ Gruppenmeeting (2h)
 Überarbeitung VL07 (30 Minuten)
 
 Desktop-GUI Registrierung und Login, Einarbeitung in Webrequests und SceneBuilder (3h)
+
+## 06.12.2017
+
+Aktivitätsdiagramm für Chaträume
+
+## 07.12.2017
+
+Gruppenmeeting (1h)
+
+Desktop-GUI Freundesliste, Bibliothek, GUI-Erweiterung (4h)
+
+## 14.12.2017
+
+Gruppenmeeting (1h)
+
+Desktop-GUI Chaträume, Refactoring, Anfang neue Klassen für API-Aufrufe (2h)
+
+## 20.12.2017
+
+Desktop-GUI API-Klassen ausprogrammiert (2h)
+
+## 21.21.2017
+
+Gruppenmeeting (1h)
