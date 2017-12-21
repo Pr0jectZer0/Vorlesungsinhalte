@@ -53,3 +53,27 @@
 
 * Gruppen Meeting für die Besprechung der Aktivitätsdiagramme (1,5 h)
 * Spielbibliothek Weboberfläche angefangen (0,5h)
+
+## 06.12
+
+* Design der Spielbibliothek (1 h)
+
+## 07.12
+
+* Anbindung der Datenbank für die Bibliothek  (1 h)
+* Weiteres Design der Oberfläche (0,5 h)
+* Gruppenmeeting (1,5 h)
+
+## 10.12 
+
+* Behebung von Fehlern in der Bibliothek (0,5 h)
+* Verbesserung der Spielauswahl (5 h)
+
+## 15.12
+
+* Erstellung der GUI für das Gruppenprofil (3h)
+* Erstellung der GUI für die Mitgliederliste von Gruppen (3 h)
+
+## 17.12
+
+* Erstellung der GUI für das Guppenforum (2,5 h)
