@@ -81,3 +81,9 @@ Aktivitätsdiagramm für alle Use Cases überarbeite (90 Minuten)
 ## 20.12.2017
 
 Vorlesung zusammengefasst (90 Minuten)
+
+## 21.12.2017
+
+Gruppenmeeting zur Besprechung der Vorlesungen, Meta-Klassendiagrammen und weiteren Verlauf des Projektes (90 Minuten)
+
+Meta-Klassendiagramm für Zustandsdiagramm erstellt (60 Minuten)
