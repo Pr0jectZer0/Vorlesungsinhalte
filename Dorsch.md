@@ -69,3 +69,5 @@ Desktop-GUI API-Klassen ausprogrammiert (2h)
 ## 21.21.2017
 
 Gruppenmeeting (1h)
+
+Desktop-GUI Refactoring API-Klassen und deren Zugriffe, Pusher und Chaträume Implementierung (5h)
