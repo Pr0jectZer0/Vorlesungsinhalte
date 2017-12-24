@@ -27,11 +27,29 @@
 - Desktop-Client: Registrierung und Anmeldung mit Datenbank verknüpft, HTTP-Request (2h)
 
 ## 02.12.2017
-- Desktop-Client: JavaDoc hinzugefügt (0,5h)
+- Desktop-Client: JavaDoc und Kommentare hinzugefügt (0,5h)
 
 ## 03.12.2017
 - Einarbeitung in mechanische Designs in JavaFX (1h)
 - Desktop-Client: CSS-Style erstellt, Login- und Registrierungsfenster aktualisiert und sonstige Anpassungen (3h)
 
 ## 04.12.2017
-- Desktop-Client: Klassen für Fehlermeldungen erstellt, Freundeliste hinzugefügt und sonstige Anpassungen (2h)
+- Desktop-Client: Klassen/Funktionen für Fehlermeldungen, Freundeliste und sonstige Anpassungen erstellt (2h)
+
+## 07.12.2017
+- Teilnahme am Gruppenmeeting: Pflichtenheft aktualisiert (1h)
+- Desktop-Client: Klassen/Funktionen für Spielebibliothek erstellt, Freundesliste erweitert/mit Backend verknüpft und sonstige Anpassungen (6h)
+
+## 13.12.2017
+- Zusammenfassung des 2. Teils der 9. Vorlesunng (0,5h)
+
+## 14.12.2017
+- Teilnahme am Gruppenmeeting: Diagramme/Vorlesungen besprochen (1h)
+- Desktop-Client: Programmcode-Klassen (api, model etc.) erstellt und Refactoring (1h)
+
+## 20.12.2017
+- Meta-Aktivitätsdiagramm für Vorlesungszusammenfassung entworfen (0,5h)
+
+## 21.12.2017
+- Teilnahme am Gruppenmeeting: Diagramme/Vorlesungen besprochen (1,5h)
+- Desktop-Client: Freundesliste überarbeitet (Observable-Listen erstellt), privaten Chatraum mit Backend verknüpft und sonstige Anpassungen (3h)
