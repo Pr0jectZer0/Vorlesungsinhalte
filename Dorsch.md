@@ -66,7 +66,7 @@ Desktop-GUI Chaträume, Refactoring, Anfang neue Klassen für API-Aufrufe (2h)
 
 Desktop-GUI API-Klassen ausprogrammiert (2h)
 
-## 21.21.2017
+## 21.12.2017
 
 Gruppenmeeting (1h)
 
