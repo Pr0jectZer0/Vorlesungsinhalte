@@ -74,3 +74,24 @@
 ## 02.12.2017
 
 - Aufbereitung Folien VL08 (1,5h)
+
+## 07.12.2017
+
+- Gruppenmeeting (1h)
+- Github-Repo Verwaltung (30 min)
+
+## 14.12.2017
+
+- Gruppenmeeting (1h)
+- Github-Repo Verwaltung (1h)
+- DB ER-Diagramm (1h)
+
+## 19.12.2017
+
+- DB ER-Diagramm (1h)
+
+## 21.12.2017
+
+- Gruppenmeeting (1,5h)
+- Aufbereitung Vorlesungsfolien (45 min)
+- Github-Repo Verwaltung (20 min)
