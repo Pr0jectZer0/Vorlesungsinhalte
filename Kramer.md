@@ -53,3 +53,9 @@
 ## 21.12.2017
 - Teilnahme am Gruppenmeeting: Diagramme/Vorlesungen besprochen (1,5h)
 - Desktop-Client: Freundesliste überarbeitet (Observable-Listen erstellt), privaten Chatraum mit Backend verknüpft und sonstige Anpassungen (3h)
+
+## 24.12.2017
+- Desktop-Client: Freundesliste überarbeitet, JavaDoc und Bestätigungsdialoge (3h)
+
+## 04.01.2017
+- Desktop-Client: Benachrichtigungen/Einstellungen hinzugefügt und Spielebibliothek angepasst (1h)
