@@ -95,3 +95,20 @@
 - Gruppenmeeting (1,5h)
 - Aufbereitung Vorlesungsfolien (45 min)
 - Github-Repo Verwaltung (20 min)
+
+## 26.12.2017
+
+- DB ER-Diagramm (30 min)
+
+## 27.12.2017
+
+- Aufbereitung Folien Vorlesung 11  (2h)
+
+## 28.12.2018
+
+- DB ER-Diagramm (30 min)
+- DB Implementierung auf Server (45 min)
+
+## 06.01.2018
+
+- Aufbereitung Vorlesungsfolien (30 min)
