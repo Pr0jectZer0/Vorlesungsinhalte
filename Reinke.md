@@ -97,3 +97,7 @@
 
 ## 21. Dezember, 2017
 * Web-Frontend: Verbindung mit Pusher für den Chat fertiggestellt (60 Minuten)
+
+## 27. Dezember, 2017
+* Einleitung - 12. Vorlesung (30 Minuten)
+* MVC Muster - 12. Vorlesung (45 Minuten)

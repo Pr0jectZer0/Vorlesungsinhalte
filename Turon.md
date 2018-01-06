@@ -77,3 +77,12 @@
 ## 17.12
 
 * Erstellung der GUI für das Guppenforum (2,5 h)
+
+## 21.12 
+
+* Erstellung der GUI für den Forumbeitrag (2,5 h)
+
+## 04.01
+
+* Zusammenfassung Vorlesung 12: MVP (0,75 h)
+* Zusammenfassung Vorlesung 12: MVVM (0,5 h)
