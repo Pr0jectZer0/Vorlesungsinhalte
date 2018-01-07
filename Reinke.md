@@ -101,3 +101,6 @@
 ## 27. Dezember, 2017
 * Einleitung - 12. Vorlesung (30 Minuten)
 * MVC Muster - 12. Vorlesung (45 Minuten)
+
+## 7. Januar, 2017
+* Proxy - 13. Vorlesung (25 Minuten)
