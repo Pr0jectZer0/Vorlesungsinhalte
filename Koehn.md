@@ -37,5 +37,5 @@
 ## 19.12.2017
 * Chat Routen und Broadcasting mit Pusher (4h)
 
-## 09.12.2017
+## 09.01.2018
 * Routen für Gruppen (3h)
