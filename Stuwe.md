@@ -43,3 +43,6 @@
 ## 14.12.2017
 * Gruppenmeeting (1 Stunde)
 * Web-Frontend: Chats (2 Stunden)
+
+## 10.01.2018
+* Command - VL13 (1 Stunde)
