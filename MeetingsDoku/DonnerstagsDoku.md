@@ -87,3 +87,10 @@ Jonas, Marvin, Nicola, Chris, Julian, Luis, Phillip, Stefan, Marti, Patrick, Ste
 
 Diagramme und Vorlesungsfolien besprochen  
 
+### 21.12
+**Anwesenheit**
+Max, Steffen, Stefan, Luis, Phillip, Pascal, Jonas, Dejan, Chris, Marvin
+
+Folien und Metaklassendiagramme besprochen  
+Neuverteilung der Folien  
+Web: Gruppen besprochen

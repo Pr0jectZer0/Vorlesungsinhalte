@@ -89,3 +89,18 @@
 * Web-Frontend: Chats überarbeitet (1 Stunde)
 * Web-Frontend: Bibliothek überarbeitet (1 Stunde)
 * Verschieben der Mockups (15 Minuten)
+
+## 20. Dezmeber, 2017
+* Auseinandersetzung mit Pusher (25 Minuten)
+* Web-Frontend: Einbindung von Pusher (30 Minuten)
+* Web-Frontend: Verbindung mit Pusher für den Chat angefangen (60 Minuten)
+
+## 21. Dezember, 2017
+* Web-Frontend: Verbindung mit Pusher für den Chat fertiggestellt (60 Minuten)
+
+## 27. Dezember, 2017
+* Einleitung - 12. Vorlesung (30 Minuten)
+* MVC Muster - 12. Vorlesung (45 Minuten)
+
+## 7. Januar, 2017
+* Proxy - 13. Vorlesung (25 Minuten)

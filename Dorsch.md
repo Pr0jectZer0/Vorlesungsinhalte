@@ -36,7 +36,7 @@ Gruppenmeeting (1h)
 
 ## 27.11.2017
 
-Aufarbeitung VL07 (4 Stunden)
+Aufarbeitung VL07 (4h)
 
 ## 30.11.2017
 
@@ -61,3 +61,17 @@ Desktop-GUI Freundesliste, Bibliothek, GUI-Erweiterung (4h)
 Gruppenmeeting (1h)
 
 Desktop-GUI Chaträume, Refactoring, Anfang neue Klassen für API-Aufrufe (2h)
+
+## 20.12.2017
+
+Desktop-GUI API-Klassen ausprogrammiert (2h)
+
+## 21.12.2017
+
+Gruppenmeeting (1h)
+
+Desktop-GUI Refactoring API-Klassen und deren Zugriffe, Pusher und Chaträume Implementierung (5h)
+
+## 08.01.2017
+
+Aufarbeitung Vorlesung 13 Observer-Thema (1h)
