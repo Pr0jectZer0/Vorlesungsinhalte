@@ -46,3 +46,8 @@
 
 ## 10.01.2018
 * Command - VL13 (1 Stunde)
+
+## 11.01.2018
+* Web-Frontend: Notizen mit Stefan (1 Stunde)
+* Gruppenmeeting (1 Stunde)
+* Web-Frontend: Notizen (3 Stunden)
