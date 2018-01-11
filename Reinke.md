@@ -102,5 +102,9 @@
 * Einleitung - 12. Vorlesung (30 Minuten)
 * MVC Muster - 12. Vorlesung (45 Minuten)
 
-## 7. Januar, 2017
+## 7. Januar, 2018
 * Proxy - 13. Vorlesung (25 Minuten)
+
+## 11. Januar, 2018
+* Gruppenmeeting: Besprechung des weiteren Vorgehens und der Vorlesungen (1 Stunde)
+* Web-Frontend: Übersicht einer Notiz (3 Stunden)
