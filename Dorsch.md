@@ -72,10 +72,10 @@ Gruppenmeeting (1h)
 
 Desktop-GUI Refactoring API-Klassen und deren Zugriffe, Pusher und Chaträume Implementierung (5h)
 
-## 08.01.2017
+## 08.01.2018
 
 Aufarbeitung Vorlesung 13 Observer-Thema (1h)
 
-## 11.01 2017
+## 11.01 2018
 
 Gruppenmeeting (0,5h)
