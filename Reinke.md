@@ -108,3 +108,7 @@
 ## 11. Januar, 2018
 * Gruppenmeeting: Besprechung des weiteren Vorgehens und der Vorlesungen (1 Stunde)
 * Web-Frontend: Übersicht einer Notiz (3 Stunden)
+
+## 12. Januar, 2018
+* Web-Frontend: Einbindung der Gruppen in die Freundesliste (30 Minuten)
+* Einleitung, Best Practices und Software Dokumentation - 14. Vorlesung (45 Minuten)
