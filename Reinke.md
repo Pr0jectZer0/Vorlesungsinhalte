@@ -145,3 +145,5 @@
 
 * Gruppenmeeting: Besprechung der Präsentation für KW4 (1 Stunde 30 Minuten)
 * Web-Frontend: Einbindung vom Terminplaner angefangen mit Stefan Kröker (4 Stunden)
+* Web-Frontend: Termin Erstellung und Validation hinzugefügt mit Stefan Kröker (2 Stunden)
+* Web-Frontend: Freundesliste gefixed, weil neue Routen und Rückgabewerte (30 Minuten)
