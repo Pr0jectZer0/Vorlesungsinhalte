@@ -82,8 +82,10 @@ Gruppenmeeting (0,5h)
 
 ## 12.01.2018
 
-Desktop-GUI neue API-Klassen für hinzugefügte Backendrouten hinzugefügt
+Desktop-GUI neue API-Klassen für hinzugefügte Backendrouten hinzugefügt(6h)
 
 ## 18.01.2018
 
 Gruppenmeeting(1h)
+
+Desktop-GUI Login und Register API-Klassen und Controller überarbeitet, JUnit-Tests geschrieben (3h)
