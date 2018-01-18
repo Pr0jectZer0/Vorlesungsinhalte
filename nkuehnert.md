@@ -1,4 +1,4 @@
-# Praktikumstagebuch 
+﻿# Praktikumstagebuch 
 ## 2017
 
 ### 27.10
@@ -40,4 +40,9 @@
 ## 2018
 
 ### 12.1
-- Zusammenfassung für VL13 (20 Minuten)
+- VL13 Zusammenfassung Template Method (20 Minuten)
+
+### 19.1
+- SQL Skripte für Beispieldatensätze für die Datenbank
+	- Spiel, Bewertung, Publisher, Genre, Vote (2 Stunden)
+	- Öffentlicher Chat, Chat Nachrichten (30 Minuten)
