@@ -79,3 +79,11 @@ Aufarbeitung Vorlesung 13 Observer-Thema (1h)
 ## 11.01 2018
 
 Gruppenmeeting (0,5h)
+
+## 12.01.2018
+
+Desktop-GUI neue API-Klassen für hinzugefügte Backendrouten hinzugefügt
+
+## 18.01.2018
+
+Gruppenmeeting(1h)
