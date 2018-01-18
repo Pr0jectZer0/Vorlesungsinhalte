@@ -143,5 +143,5 @@
 
 ## 18. Januar, 2018
 
-* Gruppenmeeting: Besprechung der Präsentation für KW4
+* Gruppenmeeting: Besprechung der Präsentation für KW4 (1 Stunde 30 Minuten)
 * Web-Frontend: Einbindung vom Terminplaner angefangen mit Stefan Kröker (4 Stunden)
