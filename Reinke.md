@@ -69,7 +69,7 @@
 * Web-Frontend: Validation für Anmeldung und Registrierung erweitert (30 Minuten)
 
 ## 3. Dezember, 2017
-* Web-Frontend: Freundesliste unterstützt (3 Stunden)
+* Web-Frontend: Freundesliste mit Stefan Kröker (3 Stunden)
 * Web-Frontend: Animationen für Freundesliste hinzugefügt (1 Stunde)
 
 ## 6. Dezember, 2017
@@ -112,3 +112,6 @@
 ## 12. Januar, 2018
 * Web-Frontend: Einbindung der Gruppen in die Freundesliste (30 Minuten)
 * Einleitung, Best Practices und Software Dokumentation - 14. Vorlesung (45 Minuten)
+
+## 18. Januar, 2018
+* Web-Frontend: Einbindung vom Terminplaner angefangen mit Stefan Kröker (4 Stunden)
