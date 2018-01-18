@@ -87,3 +87,11 @@ Vorlesung zusammengefasst (90 Minuten)
 Gruppenmeeting zur Besprechung der Vorlesungen, Meta-Klassendiagrammen und weiteren Verlauf des Projektes (90 Minuten)
 
 Meta-Klassendiagramm für Zustandsdiagramm erstellt (60 Minuten)
+
+## 11.01.2018
+
+Notizen Komponenten angelegt und Konstruktor dafür angelegt. (60 Minuten)
+
+## 12.01.2018
+
+VL14 zusammen gefasst. (150 Minuten)

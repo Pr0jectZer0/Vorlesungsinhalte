@@ -86,3 +86,38 @@
 
 * Zusammenfassung Vorlesung 12: MVP (0,75 h)
 * Zusammenfassung Vorlesung 12: MVVM (0,5 h)
+
+## 10.01
+
+* Zusammenfassung Vorlesung 13: Einleitung (0,5 h)
+
+## 11.01
+
+* Einbindung der Routen für die Gruppen ins Frontend (2 h)
+* Gruppenmeeting (0,5 h)
+
+## 12.01
+
+* Einbindung der Routen für die Gruppen ins Frontend (2,5 h)
+
+## 13.01
+
+* Erstellung der Community Unterseite (1,5 h)
+* Einbindung weiterer Funktionen für die Gruppen (2 h)
+
+## 15.01
+
+* Beheben von Fehlern in den Gruppen (1,5 h)
+
+## 16.01
+
+* Beitrittsanfragen / Verlassen von Gruppen möglich gemacht (2 h)
+
+## 17.01
+
+* Erstellung der Benachrichtigungs Unterseite (3 h)
+
+## 18.01
+
+* Gruppenmeeting (1,5 h)
+* Erweiterung der Benachrichtigungsseite (2 h)
