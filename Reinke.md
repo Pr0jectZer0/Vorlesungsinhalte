@@ -147,3 +147,7 @@
 * Web-Frontend: Einbindung vom Terminplaner angefangen mit Stefan Kröker (4 Stunden)
 * Web-Frontend: Termin Erstellung und Validation hinzugefügt mit Stefan Kröker (2 Stunden)
 * Web-Frontend: Freundesliste gefixed, weil neue Routen und Rückgabewerte (30 Minuten)
+
+## 19. Januar, 2018
+
+* Web-Frontend: Fertigstellung des Kalendars im Terminplaner (2 Stunden)
