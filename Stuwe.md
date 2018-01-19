@@ -51,3 +51,6 @@
 * Web-Frontend: Notizen mit Stefan (1 Stunde)
 * Gruppenmeeting (1 Stunde)
 * Web-Frontend: Notizen (3 Stunden)
+
+## 18.01.2018
+* Gruppenmeeting (1 Stunde 30 Minuten)
