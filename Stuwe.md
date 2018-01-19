@@ -54,3 +54,6 @@
 
 ## 18.01.2018
 * Gruppenmeeting (1 Stunde 30 Minuten)
+
+## 19.01.2018
+* Hosten der [Website](https://martistuwe.github.io/projectzero/) auf Github Account (1 Stunde)
