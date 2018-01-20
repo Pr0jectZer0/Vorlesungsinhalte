@@ -66,3 +66,7 @@
 ### 18.01
 
 * Gruppenmeeting (1,5 h)
+
+### 20.01
+
+* Fehlende Teile der Vorlesung 13 aufgearbeitet (1,5h)
