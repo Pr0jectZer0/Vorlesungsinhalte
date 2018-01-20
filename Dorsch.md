@@ -95,4 +95,4 @@ Desktop-GUI Login und Register API-Klassen und Controller überarbeitet, JUnit-T
 Desktop-GUI Notizen API-Klasse überarbeitet, JUnit-Tests geschrieben (1,5h)
 
 ## 20.01.2018
-Desktop-GUI Freunde API-Klassen überarbeitet, JUnit-Tests geschrieben (1h)
+Desktop-GUI Freunde, Games, Chat API-Klassen überarbeitet, JUnit-Tests geschrieben (4h)
