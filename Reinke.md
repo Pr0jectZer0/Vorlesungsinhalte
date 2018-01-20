@@ -151,3 +151,7 @@
 ## 19. Januar, 2018
 
 * Web-Frontend: Fertigstellung des Kalendars im Terminplaner (2 Stunden)
+
+## 20. Januar, 2018
+
+* Web-Frontend: Fertigstellung des Terminplaners (2 Stunden)
