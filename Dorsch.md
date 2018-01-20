@@ -89,3 +89,10 @@ Desktop-GUI neue API-Klassen für hinzugefügte Backendrouten hinzugefügt (6h)
 Gruppenmeeting (1h)
 
 Desktop-GUI Login und Register API-Klassen und Controller überarbeitet, JUnit-Tests geschrieben (3h)
+
+## 19.01.2018
+
+Desktop-GUI Notizen API-Klasse überarbeitet, JUnit-Tests geschrieben (1,5h)
+
+## 20.01.2018
+Desktop-GUI Freunde, Games, Chat, Games, Groups API-Klassen überarbeitet, JUnit-Tests geschrieben (4h)
