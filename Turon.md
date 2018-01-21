@@ -121,3 +121,8 @@
 
 * Gruppenmeeting (1,5 h)
 * Erweiterung der Benachrichtigungsseite (2 h)
+
+## 21.01
+
+* Einbindung der Terminanfragen zu den Benachrichtigungen (1,5 h)
+* Behebnung von Fehlern bei den Gruppeneinladungen (1 h)
