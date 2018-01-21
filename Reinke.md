@@ -159,4 +159,5 @@
 
 ## 21. Januar, 2018
 
-* Web-Frontend: Hilfestellung bei der Fertigstellung des Terminplaners (2 Stunde)
+* Web-Frontend: Hilfestellung bei der Fertigstellung des Terminplaners (2 Stunden)
+* Web-Frontend: Behebung von kleineren Fehlern (1 Stunde)
