@@ -156,3 +156,7 @@
 
 * Web-Frontend: Fertigstellung des Terminplaners (2 Stunden)
 * Ermittlung von Testfällen und Funktionsorientierter Test - 15. Vorlesung (1 Stunde)
+
+## 21. Januar, 2018
+
+* Web-Frontend: Hilfestellung bei der Fertigstellung des Terminplaners (2 Stunde)
