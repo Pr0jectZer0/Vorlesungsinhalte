@@ -96,3 +96,8 @@
 * Gruppenmeeting: Besprechung der Präsentation für KW4 (90 Minuten)
 * Web-Frontend: Einbindung vom Terminplaner angefangen mit Patrick Reinke (240 Minuten)
 * Web-Frontend: Termin Erstellung und Validation hinzugefügt mit Patrick Reinke (120 Minuten)
+
+## 21.01.2018
+
+* Web-Frontend: Fertigstellung vom Terminplaner (300 Minuten)
+
