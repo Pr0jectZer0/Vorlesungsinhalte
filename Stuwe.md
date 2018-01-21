@@ -57,3 +57,7 @@
 
 ## 19.01.2018
 * Hosten der [Website](https://martistuwe.github.io/projectzero/) auf Github Account (1 Stunde)
+
+## 21.01.2018
+* Web-Frontend: Freundesliste (Gruppenanzeige) hinzugefügt (1 Stunde)
+* Web-Frontend: Kleinere Fehler an dem Terminplaner behoben (1 Stunde)
