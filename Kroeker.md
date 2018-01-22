@@ -101,3 +101,6 @@
 
 * Web-Frontend: Fertigstellung vom Terminplaner (300 Minuten)
 
+## 22.01.2018
+
+* in reaveal.js eingelsen und das Gerüst für die Projekt_Präsi erstellt (90 Minuten)
