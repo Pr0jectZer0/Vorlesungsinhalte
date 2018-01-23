@@ -126,3 +126,8 @@
 
 * Einbindung der Terminanfragen zu den Benachrichtigungen (1,5 h)
 * Behebnung von Fehlern bei den Gruppeneinladungen (1 h)
+
+## 22.01
+
+* Mouse-Over-Effekte in den Gruppen, auf der Community-Seite und bei den Benachrichtigungen eingefügt (0,5 h)
+* Kleinere Fehler behoben (0,5 h)
