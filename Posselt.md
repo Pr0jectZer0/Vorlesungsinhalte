@@ -112,3 +112,13 @@
 ## 06.01.2018
 
 - Aufbereitung Vorlesungsfolien (30 min)
+
+## 11.01.2018
+
+- Gruppenmeeting (30 min)
+- Github-Repo Verwaltung (20 min)
+
+## 18.01.2018
+
+- Gruppenmeeting (1h)
+- Datenbank: Skripte für Tabellen und Beispieldaten (1h)
