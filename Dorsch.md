@@ -101,3 +101,7 @@ Desktop-GUI Freunde, Games, Chat, Games, Groups, UserGames, usw. API-Klassen üb
 ## 21.01.2018
 
 Desktop-GUI Notizen, Termine API-Klassen überarbeitet, JUnit-Tests geschrieben(2h)
+
+## 23.01.2018
+
+Aufarbeitung VL15 Unittests, TDD, Test-Doubles(1,5h)
