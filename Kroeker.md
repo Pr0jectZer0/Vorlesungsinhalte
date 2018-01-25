@@ -104,3 +104,12 @@
 ## 22.01.2018
 
 * in reaveal.js eingelsen und das Gerüst für die Projekt_Präsi erstellt (90 Minuten)
+
+## 24.01.2018
+
+* Präsentation als Google Präsentation angefangen, wegen problemen mit reaveal.js (90 Minuten)
+
+## 25.01.2018
+
+* Gruppen Meeting über die Probleme des Backends und die Präsentation für den letzten Tag (120 Minuten)
+* Vorlesung zusammengefasst (30 Minuten)
