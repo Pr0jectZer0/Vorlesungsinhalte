@@ -23,7 +23,6 @@
 ## 30.11.2017
 * Gruppenmeeting (2h)
 
-
 ## 05.12.2017
 * Routen für Freundesliste und Spielebibliothek (2h)
 * Erstellung der ersten Dokumentation als PDF (1h)
@@ -39,3 +38,27 @@
 
 ## 09.01.2018
 * Routen für Gruppen (3h)
+
+## 10.01.2018
+* Dokumentation angepasst, Fehler behoben (2h)
+
+## 11.01.2018
+* Routen für die Notizen (3h)
+
+## 12.01.2018
+* Freundesliste (2h)
+* Fehler behoben (1h)
+
+## 17.01.2018
+* Gruppen Nachrichten (2h)
+* Routes für Termine (2h)
+
+## 20.01.2018
+* Beziehung zwischen Notiz und Gruppe, User (1,5h)
+* Beziehung zwischen Termine und Gruppe, User (1,5h)
+
+## 21.01.2018
+* Fehler behoben(1h)
+
+## 25.01.2018
+* Fehler behoben(1h)
