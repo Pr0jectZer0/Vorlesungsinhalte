@@ -61,3 +61,10 @@
 ## 21.01.2018
 * Web-Frontend: Freundesliste (Gruppenanzeige) hinzugefügt (1 Stunde)
 * Web-Frontend: Kleinere Fehler an dem Terminplaner behoben (1 Stunde)
+
+## 24.01.2018
+* VL15 - Testarten im Entwicklungsprozess und weitere Testarten (1 Stunde 30 Minuten)
+
+## 25.01.2018
+* Gruppenmeeting (1 Stunde 30 Minuten)
+* Hosten der [Website](https://martistuwe.github.io/projectzero/) auf Github Account (30 Minuten)
