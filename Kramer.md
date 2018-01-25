@@ -59,3 +59,7 @@
 
 ## 04.01.2017
 - Desktop-Client: Benachrichtigungen/Einstellungen hinzugefügt und Spielebibliothek angepasst (1h)
+
+## 11.01.2017
+- Teilnahme am Gruppenmeeting: Vorlesungen und Programmfunktionen besprochen (0,5h)
+- Desktop-Client: Terminplaner hinzugefügt (0,5h)

@@ -42,3 +42,46 @@
 - Desktop-Gui, Registrierung/Login, Einarbeitung in Webrequest und Scene-Builder(3h)
 
 - Gruppen Meeting: Besprechung der Vorlesungsfolien und AKtivitätsdiagramme (2h)
+
+## 7.12.17
+
+- Gruppenmeeting(1h)
+
+- Desktop-GUI: Freundesliste, Bibliothek und GUI-Erweiterung(4h)
+
+## 14.12.2017
+
+- Gruppenmeeting (1h)
+
+- Desktop-GUI Chaträume(2h)
+
+## 20.12.2017
+
+- Meta-Aktivitätsdiagramm für Use-Case-Diagramme erstellt (1h)
+
+## 21.12.2017
+
+- Gruppenmeeting (1,5h)
+- Aufbereitung Vorlesungsfolien (1h)
+
+## 25.12.2017
+
+- Desktop-GUI: Oberfläche für Notizen-Funktion begonnen (1h)
+
+## 10.01.2018
+
+- Aufbereitung Vorlesungsfolien (45min)
+
+## 11.01.2018
+
+- Gruppenmeeting (30 min)
+
+## 18.01.2018
+
+- Gruppenmeeting (1h)
+- Desktop-GUI: Notizfunktion erstellt (4,5h)
+
+## 25.01.2018
+
+- Gruppenmeeting (2h)
+- Desktop-GUI: Notizfunktion, Fixes (5h)
