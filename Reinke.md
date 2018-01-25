@@ -165,4 +165,5 @@
 ## 25. Januar, 2018
 
 * Web-Frontend: Kleinere Fehler behoben (30 Minuten)
-* Gruppenmeeting: Besprechung der Präsentation (1 Stunde 30 Minuten)
+* Web-Frontend: Schwerwiegende Fehler behoben (Mitsenden von Token) (30 Minuten)
+* Gruppenmeeting: Besprechung der Präsentation (2 Stunden)
