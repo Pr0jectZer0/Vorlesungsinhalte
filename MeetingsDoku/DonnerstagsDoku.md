@@ -98,3 +98,13 @@ Web: Gruppen besprochen
 ### 11.01
 **Anwesenheit** 
 Max, Julien, Steffen, Stefan, Luis, Phillip, Pascal, Jonas, Marti, Patrick, Julian, Marvin, Nicola, Dejan
+
+### 18.01
+**Anwesenheit**
+TBD
+
+### 25.01
+**Anwesenheit**
+Nicola, Jonas, Luis, Phillip, Marvin, Julien, Steffen, Stefan, Patrick, Marti, Dejan
+Besprechung, was alles in die Präsentation geschrieben werden soll  
+Status der verschiedenen Projekte
