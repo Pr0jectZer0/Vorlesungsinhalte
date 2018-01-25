@@ -57,5 +57,8 @@
 ## 21.01.2018
 * Fehler behoben(1h)
 
+## 24.01.2018
+* Erstellung Präsentation Backend (2h)
+
 ## 25.01.2018
 * Fehler behoben(1h)
