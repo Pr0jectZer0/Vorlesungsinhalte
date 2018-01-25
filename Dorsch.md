@@ -109,4 +109,4 @@ Aufarbeitung VL15 Unittests, TDD, Test-Doubles (1,5h)
 ## 25.01.2018
 
 Gruppenmeeting (2h)
-Desktop-GUI Notizen, Bibliothek, API-Klassen, Bugfixes (8h)
+Desktop-GUI Notizen, Bibliothek, Gruppen, Freundesliste, API-Klassen, Bugfixes (10h)
