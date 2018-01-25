@@ -20,9 +20,6 @@
 * JWT-Auth implementiert (2h)
 * Einrichtung des Serves mit Datenbank und Domain (2h)
 
-## 30.11.2017
-* Gruppenmeeting (2h)
-
 ## 05.12.2017
 * Routen für Freundesliste und Spielebibliothek (2h)
 * Erstellung der ersten Dokumentation als PDF (1h)
