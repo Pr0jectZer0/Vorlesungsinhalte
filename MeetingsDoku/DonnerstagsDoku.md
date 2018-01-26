@@ -8,7 +8,7 @@
 - Hagen Hatebar
 - Jonas Posselt
 - Julian Wasilewski
-- Julien Gab
+- Julien Garb
 - Luis Deutsch
 - Marc Wulf
 - Marcel Paul
@@ -52,7 +52,7 @@ Jonas, Dejan, Pascal, Julian, Stefan, Luis, Steffen, Patrick, Marti, Phillip, Ma
 **Anwesenheit**  
 Dejan, Nicola, Marvin, Stefan, Jonas, Julian, Luis, Phillip, Reinke, Marti, Steffen, Julien
 
-Vorlesungen besprochen 
+Vorlesungen besprochen
 Userstorys überprüft  
 Issues bei Git erstellt für Fehler und Probleme, die wir gefunden haben
 
@@ -75,8 +75,8 @@ Besprechung Aktivitätsdiagramme und Korrektur der Use-Cases
 Einzelne besprechungen in den Teams  
 
 ### 07.12
-**Anwesenheit** 
-Julian, Luis, Phillip, Dejan, Pascal, Marti, Patrick, Stefan, Steffen, Marc, Julian, Chris, Nicola, Marvin, Jonas
+**Anwesenheit**
+Julian, Luis, Phillip, Dejan, Pascal, Marti, Patrick, Stefan, Steffen, Marc, Julien, Chris, Nicola, Marvin, Jonas
 
 Besprechung Aktivitätsdiagrammkorrekturen  
 Klärung verschiedener Begriffe
@@ -96,7 +96,7 @@ Neuverteilung der Folien
 Web: Gruppen besprochen
 
 ### 11.01
-**Anwesenheit** 
+**Anwesenheit**
 Max, Julien, Steffen, Stefan, Luis, Phillip, Pascal, Jonas, Marti, Patrick, Julian, Marvin, Nicola, Dejan
 
 ### 18.01
