@@ -62,4 +62,14 @@
 
 ## 11.01.2017
 - Teilnahme am Gruppenmeeting: Vorlesungen und Programmfunktionen besprochen (0,5h)
+- Vorlesung 10: Aufgabenteil Bridge zusammengefasst (15min)
 - Desktop-Client: Terminplaner hinzugefügt (0,5h)
+
+## 18.01.2017
+- Teilnahme am Gruppenmeeting: Vorlesungen und Programmfunktionen besprochen (0,5h)
+- Desktop-Client: Benachrichtigungen hinzugefügt (2h)
+
+## 25.01.2017
+- Teilnahme am Gruppenmeeting: Präsentation besprochen (1h)
+- Desktop-Client: Finale Feinarbeiten (6h)
+
