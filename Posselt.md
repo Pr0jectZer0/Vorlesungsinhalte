@@ -122,3 +122,7 @@
 
 - Gruppenmeeting (1h)
 - Datenbank: Skripte für Tabellen und Beispieldaten (1h)
+
+## 26.01.2018
+
+- Gruppenmeeting (1,5h)
