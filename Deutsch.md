@@ -27,3 +27,26 @@
 ## 7.12.17
 - Gruppenmeeting(1h)
 - DesktopGui: Freundesliste, Bibliothek und Guierweiterung(4h)
+
+## 14.12.2017
+- Gruppenmeeting (1h)
+- Chat-Gui erstellt(1,5h)
+
+## 21.12.2017
+- Gruppenmeeting (1,5h)
+- Chat-Pusher Anbindung 1te Versuch(5h)
+
+## 10.01.2018
+- Vorlesung zusammengefasst (2h)
+
+## 11.01.2018
+- Gruppenmeeting (30 min)
+- Chat-Pusher Anbindung Fertigstellung, Design(2,5h)
+
+## 18.01.2018
+- Gruppenmeeting (1h)
+- Gruppenchats-Gui erstellt (2,5h)
+
+## 25.01.2018
+- Gruppenmeeting (2h)
+- Gruppen implementiert, Gruppenchats implementiert, Polishing (10h)
