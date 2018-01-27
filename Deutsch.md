@@ -50,3 +50,6 @@
 ## 25.01.2018
 - Gruppenmeeting (2h)
 - Gruppen implementiert, Gruppenchats implementiert, Polishing (10h)
+
+## 27.01.2018
+- Java-Doc geschrieben(45 min)
