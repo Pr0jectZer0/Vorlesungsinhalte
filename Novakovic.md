@@ -81,3 +81,6 @@
 ## 25.01.2018
 * Aufbereitung der Vorlesungsfolien (40min)  
 * Letzte Aufbereitung der Tests für die Präsentation (5h)
+
+## 01.02.2018
+* Meeting - Lessons learned
