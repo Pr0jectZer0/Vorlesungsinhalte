@@ -113,3 +113,7 @@
 
 * Gruppen Meeting über die Probleme des Backends und die Präsentation für den letzten Tag (120 Minuten)
 * Vorlesung zusammengefasst (30 Minuten)
+
+## 01.02.2018
+
+* Gruppen Meeting zur Vorbereitung der Lessons Learned Präsentation
