@@ -57,19 +57,23 @@
 ## 24.12.2017
 - Desktop-Client: Freundesliste überarbeitet, JavaDoc und Bestätigungsdialoge (3h)
 
-## 04.01.2017
+## 04.01.2018
 - Desktop-Client: Benachrichtigungen/Einstellungen hinzugefügt und Spielebibliothek angepasst (1h)
 
-## 11.01.2017
+## 11.01.2018
 - Teilnahme am Gruppenmeeting: Vorlesungen und Programmfunktionen besprochen (0,5h)
 - Vorlesung 10: Aufgabenteil Bridge zusammengefasst (15min)
 - Desktop-Client: Terminplaner hinzugefügt (0,5h)
 
-## 18.01.2017
+## 18.01.2018
 - Teilnahme am Gruppenmeeting: Vorlesungen und Programmfunktionen besprochen (0,5h)
 - Desktop-Client: Benachrichtigungen hinzugefügt (2h)
 
-## 25.01.2017
+## 25.01.2018
 - Teilnahme am Gruppenmeeting: Präsentation besprochen (1h)
 - Desktop-Client: Finale Feinarbeiten (6h)
 
+## 01.02.2018
+- Teilnahme am Gruppenmeeting: Lessons-Learned besprochen (1h)
+- Desktop-Client: Java-Doc hinzugefügt (15min)
+- Lessons-Learned Präsentation in Power-Point zusammengefasst (15min)
