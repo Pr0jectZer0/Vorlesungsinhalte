@@ -131,3 +131,7 @@
 
 * Mouse-Over-Effekte in den Gruppen, auf der Community-Seite und bei den Benachrichtigungen eingefügt (0,5 h)
 * Kleinere Fehler behoben (0,5 h)
+
+## 25.01 
+
+* Beitrittsanfragen für Gruppen lauffähig gemacht (0,5 h)

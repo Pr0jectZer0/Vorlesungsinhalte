@@ -46,3 +46,6 @@
 - SQL Skripte für Beispieldatensätze für die Datenbank
 	- Spiel, Bewertung, Publisher, Genre, Vote (2 Stunden)
 	- Öffentlicher Chat, Chat Nachrichten (30 Minuten)
+
+### 26.1
+- VL15 Zusammenfassung (30 Minuten)

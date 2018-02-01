@@ -70,4 +70,18 @@
 
 ## 10.01.2018
 
-- Aufbereitung Vorlesungsfolien (45min)
+- Aufbereitung Vorlesungsfolien: Composite (45min)
+
+## 11.01.2018
+
+- Gruppenmeeting (30 min)
+
+## 18.01.2018
+
+- Gruppenmeeting (1h)
+- Desktop-GUI: Notizfunktion erstellt (4,5h)
+
+## 25.01.2018
+
+- Gruppenmeeting (2h)
+- Desktop-GUI: Notizfunktion, Fixes + Präsentation (10h)

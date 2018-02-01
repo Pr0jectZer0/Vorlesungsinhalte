@@ -78,5 +78,9 @@
 ## 18.01.2018
 * Tests forlaufend (1h)
 
-## 24.01.2018
-* Aufbereitung der Vorlesungsfolien (tbd)
+## 25.01.2018
+* Aufbereitung der Vorlesungsfolien (40min)  
+* Letzte Aufbereitung der Tests für die Präsentation (5h)
+
+## 01.02.2018
+* Meeting - Lessons learned
